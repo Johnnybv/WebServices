@@ -1,0 +1,11 @@
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\ModasSeedData\bin\Debug\netcoreapp2.1\ModasSeedData.deps.json
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\ModasSeedData\bin\Debug\netcoreapp2.1\ModasSeedData.runtimeconfig.json
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\ModasSeedData\bin\Debug\netcoreapp2.1\ModasSeedData.runtimeconfig.dev.json
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\ModasSeedData\bin\Debug\netcoreapp2.1\ModasSeedData.dll
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\ModasSeedData\bin\Debug\netcoreapp2.1\ModasSeedData.pdb
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\ModasSeedData\obj\Debug\netcoreapp2.1\ModasSeedData.csprojAssemblyReference.cache
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\ModasSeedData\obj\Debug\netcoreapp2.1\ModasSeedData.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\ModasSeedData\obj\Debug\netcoreapp2.1\ModasSeedData.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\ModasSeedData\obj\Debug\netcoreapp2.1\ModasSeedData.AssemblyInfo.cs
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\ModasSeedData\obj\Debug\netcoreapp2.1\ModasSeedData.dll
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\ModasSeedData\obj\Debug\netcoreapp2.1\ModasSeedData.pdb
