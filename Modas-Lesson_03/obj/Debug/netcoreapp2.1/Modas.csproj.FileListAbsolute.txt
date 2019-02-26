@@ -1,0 +1,46 @@
+C:\Users\Asus\Desktop\Modas-Public-Lesson_03\bin\Debug\netcoreapp2.1\Modas.deps.json
+C:\Users\Asus\Desktop\Modas-Public-Lesson_03\bin\Debug\netcoreapp2.1\Modas.runtimeconfig.json
+C:\Users\Asus\Desktop\Modas-Public-Lesson_03\bin\Debug\netcoreapp2.1\Modas.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Modas-Public-Lesson_03\bin\Debug\netcoreapp2.1\Modas.dll
+C:\Users\Asus\Desktop\Modas-Public-Lesson_03\bin\Debug\netcoreapp2.1\Modas.pdb
+C:\Users\Asus\Desktop\Modas-Public-Lesson_03\bin\Debug\netcoreapp2.1\Modas.Views.dll
+C:\Users\Asus\Desktop\Modas-Public-Lesson_03\bin\Debug\netcoreapp2.1\Modas.Views.pdb
+C:\Users\Asus\Desktop\Modas-Public-Lesson_03\obj\Debug\netcoreapp2.1\Modas.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Modas-Public-Lesson_03\obj\Debug\netcoreapp2.1\Modas.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Modas-Public-Lesson_03\obj\Debug\netcoreapp2.1\Modas.RazorAssemblyInfo.cache
+C:\Users\Asus\Desktop\Modas-Public-Lesson_03\obj\Debug\netcoreapp2.1\Modas.RazorAssemblyInfo.cs
+C:\Users\Asus\Desktop\Modas-Public-Lesson_03\obj\Debug\netcoreapp2.1\Modas.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Modas-Public-Lesson_03\obj\Debug\netcoreapp2.1\Modas.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Modas-Public-Lesson_03\obj\Debug\netcoreapp2.1\Modas.TagHelpers.input.cache
+C:\Users\Asus\Desktop\Modas-Public-Lesson_03\obj\Debug\netcoreapp2.1\Modas.TagHelpers.output.cache
+C:\Users\Asus\Desktop\Modas-Public-Lesson_03\obj\Debug\netcoreapp2.1\Modas.RazorCoreGenerate.cache
+C:\Users\Asus\Desktop\Modas-Public-Lesson_03\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Asus\Desktop\Modas-Public-Lesson_03\obj\Debug\netcoreapp2.1\Modas.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Desktop\Modas-Public-Lesson_03\obj\Debug\netcoreapp2.1\Modas.RazorTargetAssemblyInfo.cs
+C:\Users\Asus\Desktop\Modas-Public-Lesson_03\obj\Debug\netcoreapp2.1\Modas.Views.pdb
+C:\Users\Asus\Desktop\Modas-Public-Lesson_03\obj\Debug\netcoreapp2.1\Modas.dll
+C:\Users\Asus\Desktop\Modas-Public-Lesson_03\obj\Debug\netcoreapp2.1\Modas.pdb
+C:\Users\Asus\Desktop\Modas-Public-Lesson_03\obj\Debug\netcoreapp2.1\Modas.csproj.CopyComplete
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\Modas-Lesson_03\bin\Debug\netcoreapp2.1\Modas.deps.json
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\Modas-Lesson_03\bin\Debug\netcoreapp2.1\Modas.runtimeconfig.json
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\Modas-Lesson_03\bin\Debug\netcoreapp2.1\Modas.runtimeconfig.dev.json
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\Modas-Lesson_03\bin\Debug\netcoreapp2.1\Modas.dll
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\Modas-Lesson_03\bin\Debug\netcoreapp2.1\Modas.pdb
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\Modas-Lesson_03\bin\Debug\netcoreapp2.1\Modas.Views.dll
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\Modas-Lesson_03\bin\Debug\netcoreapp2.1\Modas.Views.pdb
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\Modas-Lesson_03\obj\Debug\netcoreapp2.1\Modas.csprojAssemblyReference.cache
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\Modas-Lesson_03\obj\Debug\netcoreapp2.1\Modas.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\Modas-Lesson_03\obj\Debug\netcoreapp2.1\Modas.RazorAssemblyInfo.cache
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\Modas-Lesson_03\obj\Debug\netcoreapp2.1\Modas.RazorAssemblyInfo.cs
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\Modas-Lesson_03\obj\Debug\netcoreapp2.1\Modas.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\Modas-Lesson_03\obj\Debug\netcoreapp2.1\Modas.AssemblyInfo.cs
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\Modas-Lesson_03\obj\Debug\netcoreapp2.1\Modas.TagHelpers.input.cache
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\Modas-Lesson_03\obj\Debug\netcoreapp2.1\Modas.TagHelpers.output.cache
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\Modas-Lesson_03\obj\Debug\netcoreapp2.1\Modas.RazorCoreGenerate.cache
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\Modas-Lesson_03\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\Modas-Lesson_03\obj\Debug\netcoreapp2.1\Modas.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\Modas-Lesson_03\obj\Debug\netcoreapp2.1\Modas.RazorTargetAssemblyInfo.cs
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\Modas-Lesson_03\obj\Debug\netcoreapp2.1\Modas.Views.pdb
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\Modas-Lesson_03\obj\Debug\netcoreapp2.1\Modas.dll
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\Modas-Lesson_03\obj\Debug\netcoreapp2.1\Modas.pdb
+C:\Users\Asus\OneDrive - Waukesha County Technical College\WebServices\Modas-Lesson_03\obj\Debug\netcoreapp2.1\Modas.csproj.CopyComplete
